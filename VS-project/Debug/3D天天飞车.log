@@ -1,0 +1,58 @@
+﻿生成启动时间为 2015/8/30 13:37:43。
+     1>项目“D:\Program Files (x86)\3D天天飞车\3D天天飞车\3D天天飞车.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Visual Studio 2013\VC\bin\CL.exe /c /I"D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Program Files (x86)\3D天天飞车\Debug\\" /Fd"D:\Program Files (x86)\3D天天飞车\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp Control.cpp D3DGUI.cpp D3DUtility.cpp LoadMesh.cpp Main.cpp SetAndRender.cpp SkyBox.cpp pSystem.cpp
+         pSystem.cpp
+         SkyBox.cpp
+         SetAndRender.cpp
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(662): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(663): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(667): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(668): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(672): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(673): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(677): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(678): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(682): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(683): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(687): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(688): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+         Main.cpp
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\main.cpp(175): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\main.cpp(221): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\main.cpp(338): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         LoadMesh.cpp
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(189): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\loadmesh.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+         D3DUtility.cpp
+         D3DGUI.cpp
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\d3dgui.cpp(416): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\d3dgui.cpp(417): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+         Control.cpp
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\control.cpp(88): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\control.cpp(90): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+         Camera.cpp
+         正在生成代码...
+     1>d:\program files (x86)\3d天天飞车\3d天天飞车\setandrender.cpp(322): warning C4715: “SetCube”: 不是所有的控件路径都返回值
+       Link:
+         D:\Program Files (x86)\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files (x86)\3D天天飞车\Debug\3D天天飞车.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86" d3dx9.lib d3dxof.lib d3d9.lib winmm.lib dxguid.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Program Files (x86)\3D天天飞车\Debug\3D天天飞车.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program Files (x86)\3D天天飞车\Debug\3D天天飞车.lib" /MACHINE:X86 "D:\Program Files (x86)\3D天天飞车\Debug\Camera.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\Control.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\D3DGUI.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\D3DUtility.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\LoadMesh.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\Main.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\pSystem.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\SetAndRender.obj"
+         "D:\Program Files (x86)\3D天天飞车\Debug\SkyBox.obj"
+         3D天天飞车.vcxproj -> D:\Program Files (x86)\3D天天飞车\Debug\3D天天飞车.exe
+     1>已完成生成项目“D:\Program Files (x86)\3D天天飞车\3D天天飞车\3D天天飞车.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.57
